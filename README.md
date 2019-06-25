@@ -1,6 +1,22 @@
-# flutter_movie
+# flutter_movie_douban
+豆瓣API地址：https://douban-api-docs.zce.me/
+Api V2包括：
+* 图书 Api V2
+* 电影 Api V2
+* 音乐 Api V2
+* 同城 Api V2
+* 广播 Api V2
+* 用户 Api V2
+* 日记 Api V2
+* 相册 Api V2
+* 线上活动 Api V2
+* 论坛 Api V2
+* 回复 Api V2
+* 我去 Api V2
 
-A new Flutter project.
+API有很多，足够学习使用，本项目只是使用电影api学习一下google flutter技术。
+当第一次接触flutter就被他简单的编程方式，一次编码可以在Android和IOS两大平台运行，以及流畅的API，高性能的渲染深深吸引。
+
 
 ## Getting Started
 
